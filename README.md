@@ -1,2 +1,2 @@
 # Projekt-Loty
-Projekt zaliczeniowy
+Projekt zaliczeniowy PPK
